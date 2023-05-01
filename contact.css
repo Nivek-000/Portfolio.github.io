@@ -91,7 +91,6 @@
     border: #fff;
     padding: 15px;
     transition: .5s;
-    text-transform: capitalize;
   }
 
   textarea::placeholder{
